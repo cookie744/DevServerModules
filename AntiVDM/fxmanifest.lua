@@ -1,7 +1,7 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'cookie'
+author 'Cookie'
 description 'AntiVDM'
 version '1.0.0'
 
